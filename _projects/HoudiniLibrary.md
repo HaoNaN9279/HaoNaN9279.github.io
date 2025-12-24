@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Houdini Library
-image: "https://www.sidefx.com/media/uploads/company/press/logos/houdini_white.svg"
+image: "https://media.sidefx.com/uploads/company/press/logos/houdini_badge_flat.svg"
 tags:
   - tailwindcss
   - html
