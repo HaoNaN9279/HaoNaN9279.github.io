@@ -5,8 +5,8 @@ home:
   projects_title: "最近项目"
   see_more_projects: "查看更多项目 ->"
 footer:
-  title: ""
-  description: ""
+  title: " "
+  description: "我的其他平台"
   pages: 页面
 blog:
   read_more: "更多 ->"
