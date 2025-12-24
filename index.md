@@ -8,9 +8,11 @@ main_content: >
   # HaoNaN
 
 
-  上海在职**技术美术**\n
-  **#Unity#C##Python**\n
-  **#Blender#Houdini#Substance Designer**\n
+  上海在职**技术美术**
+  
+  **#Unity#C##Python**
+  
+  **#Blender#Houdini#Substance Designer**
 footer: true
 permalink: /
 ---
