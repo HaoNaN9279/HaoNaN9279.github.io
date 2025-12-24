@@ -2,6 +2,7 @@
 layout: project
 title: Houdini Library
 image: "https://media.sidefx.com/uploads/company/press/logos/houdini_badge_flat.svg"
+category: Houdini
 tags:
   - tailwindcss
   - html

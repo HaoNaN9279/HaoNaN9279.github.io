@@ -2,6 +2,7 @@
 layout: project
 title: Substance Designer Library
 image: "https://cdn.worldvectorlogo.com/logos/substance-designer.svg"
+category: SubstanceDesigner
 tags:
   - tailwindcss
   - html
