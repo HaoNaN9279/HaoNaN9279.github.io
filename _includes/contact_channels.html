@@ -97,5 +97,17 @@
       alt="Threads Icon"
     />
   </a>
+  {% endif %} {% if contact_channels.artstation %}
+  <a
+    class="transition hover:scale-110 duration-300"
+    href="{{ contact_channels.artstation }}"
+    target="_blank"
+  >
+    <img
+      class="h-6 w-6 dark:invert"
+      src="{{'/assets/images/contact_channels/artstation.svg' | relative_url }}"
+      alt="ArtStation Icon"
+    />
+  </a>
   {% endif %}
 </div>
