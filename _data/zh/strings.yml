@@ -1,0 +1,15 @@
+home:
+  contact_me: "通过一下方式联系我："
+  blog_title: "文章：最近"
+  see_more_posts: "查看更多文章 ->"
+  projects_title: "最近项目"
+  see_more_projects: "查看更多项目 ->"
+footer:
+  title: ""
+  description: ""
+  pages: 页面
+blog:
+  read_more: "更多 ->"
+  more_articles: "更多文章"
+post:
+  share: 分享
