@@ -1,6 +1,6 @@
-title: AwesomeJT
+title: HaoNaN的主页
 logo: /assets/images/logo.avif
-baseurl: /awesome-jekyll-theme
+baseurl: /HaoNaN9279.github.io
 
 ##
 # Collections configuration
@@ -18,8 +18,8 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
-  # email: "example@example.cl"
-  github: "https://github.com/a-chacon"
+  email: "1207185592@qq.com"
+  github: "https://github.com/HaoNaN9279"
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
@@ -38,8 +38,8 @@ plugins:
 ##
 # Polyglot configuration
 ##
-languages: ["en"]
-default_lang: "en"
+languages: ["zh"]
+default_lang: "zh"
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: true
 
