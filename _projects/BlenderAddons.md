@@ -8,6 +8,6 @@ tags:
   - html
 ---
 
- {% github_wiki HaoNaN9279, hnlib, Home %}
+{% github_readme HaoNaN9279, hnlib, main %}
 
 仓库地址：[https://github.com/HaoNaN9279/hnlib](https://github.com/HaoNaN9279/hnlib)

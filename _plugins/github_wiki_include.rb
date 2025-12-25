@@ -76,3 +76,7 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('github_wiki', Jekyll::GitHubWikiTag)
+
+# 用法示例：
+# 将以下内容写入 Jekyll 页面或文章中：
+# {% github_wiki HaoNaN9279, hnlib, Home %}
