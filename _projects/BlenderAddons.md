@@ -8,6 +8,6 @@ tags:
   - html
 ---
 
-一个Blender扩展仓库。  
+ {% github_wiki HaoNaN9279, hnlib, Home %}
 
 仓库地址：[https://github.com/HaoNaN9279/hnlib](https://github.com/HaoNaN9279/hnlib)
